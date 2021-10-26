@@ -8,10 +8,10 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Powershell" title="Powershell" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/powershell/powershell.png">
-|--|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Powershell" title="Powershell" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/powershell/powershell.png">|<img alt="C++" title="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+|--|--|--|--|--|
 
-yes, HTML is **no** Programming language 😉
+yes, HTML is **no** programming language 😉
 
 **Libraries and Frameworks**
 
@@ -25,8 +25,8 @@ yes, HTML is **no** Programming language 😉
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="MQTT" alt="MQTT" width="40px" src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/a8c3a0daa9a0b73238bcec5c31acd1d5f223e675/png/mqtt-hor.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="MQTT" alt="MQTT" width="40px" src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/a8c3a0daa9a0b73238bcec5c31acd1d5f223e675/png/mqtt-hor.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="Arduino" alt="Arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png">
+|--|--|--|--|--|--|
 <br>
 
 ## Some of my stats :bar_chart:
