@@ -15,8 +15,8 @@ yes, HTML is **no** programming language 😉
 
 **Libraries and Frameworks**
 
-<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="AJAX" alt="AJAX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ajax/ajax.png">|<img title="AJAX" alt="AJAX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">
-|--|--|--|
+<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="AJAX" alt="AJAX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ajax/ajax.png">|<img title="AJAX" alt="AJAX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="ANGULAR" alt="ANGULAR" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
+|--|--|--|--|
 
 **Databases**
 
