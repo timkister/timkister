@@ -35,8 +35,8 @@ yes, HTML is **no** programming language 😉
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="MQTT" alt="MQTT" width="40px" src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/a8c3a0daa9a0b73238bcec5c31acd1d5f223e675/png/mqtt-hor.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="Arduino" alt="Arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png">
-|--|--|--|--|--|--|
+<img title="MQTT" alt="MQTT" width="40px" src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/a8c3a0daa9a0b73238bcec5c31acd1d5f223e675/png/mqtt-hor.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="Arduino" alt="Arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png">
+|--|--|--|--|--|
 <br>
 
 ## Some of my stats :bar_chart:
@@ -52,7 +52,7 @@ yes, HTML is **no** programming language 😉
 
 ## PC-Setup
 
-OS: <img title="Ubuntu" alt="Arch" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
+<img title="Ubuntu" alt="Arch" width="100px" src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png">
 
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
