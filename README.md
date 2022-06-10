@@ -50,6 +50,10 @@ yes, HTML is **no** programming language 😉
 <a href="https://www.linkedin.com/in/tim-kister-78a447216"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 |--|
 
+## PC-Setup
+
+OS: <img title="Ubuntu" alt="Arch" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
+
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
 
