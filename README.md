@@ -1,4 +1,6 @@
-<h1>Hi There, I'm Tim Kister <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I'm Tim Kister</h1>
+
+![](https://komarev.com/ghpvc/?username=timkister&style=flat-square)
 
 I'm a **IT specialist trainee** working at [Schäflein](https://schaeflein.de/). My day to day work revolves around building Interfaces for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
