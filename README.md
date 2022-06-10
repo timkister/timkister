@@ -4,6 +4,14 @@
 
 I'm a **IT specialist trainee** working at [Schäflein](https://schaeflein.de/). My day to day work revolves around building Interfaces for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
+- 🔭 Working on - **Improving my Skills and new projects**
+
+- 🌱 Learning  - **React**
+
+- 💬 Interests - **Psychology & Personal Growth**
+
+- 📫 Reach me - [**Discord**](https://discord.com/users/?) or [**Email**](mailto:kister.tim@googlemail.com) 
+
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
