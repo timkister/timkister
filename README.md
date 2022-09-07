@@ -6,7 +6,7 @@ I'm a **IT specialist trainee** working at [Schäflein](https://schaeflein.de/).
 
 - 🔭 Working on - **Improving my Skills and new projects**
 
-- 🌱 Learning  - **React**
+- 🌱 Learning  - **Docker**
 
 - 💬 Interests - **Psychology & Personal Growth**
 
@@ -25,18 +25,18 @@ yes, HTML is **no** programming language 😉
 
 **Libraries and Frameworks**
 
-<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="AJAX" alt="AJAX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ajax/ajax.png">|<img title="AJAX" alt="AJAX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="ANGULAR" alt="ANGULAR" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
+<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="AJAX" alt="AJAX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ajax/ajax.png">|<img title="JQUERY" alt="JQUERY" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="REACT" alt="REACT" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
 |--|--|--|--|
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> <br>
-|--|--|
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="Microsoft SQL Server" alt="MSSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/690px-Microsoft_SQL_Server_Logo.svg.png?20100429075711"> <br>
+|--|--|--|
 
 **Tools**
 
-<img title="MQTT" alt="MQTT" width="40px" src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/a8c3a0daa9a0b73238bcec5c31acd1d5f223e675/png/mqtt-hor.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="Arduino" alt="Arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png">
-|--|--|--|--|--|
+<img title="MQTT" alt="MQTT" width="40px" src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/a8c3a0daa9a0b73238bcec5c31acd1d5f223e675/png/mqtt-hor.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="Arduino" alt="Arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Portainer" alt="Portainer" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRok6fCZeCRq1ShE6KyCYmDe3rfYwtu4acF3KksHI5mMNi1NRvUIvHihRL7ul-pL-YWCbY&usqp=CAU">
+|--|--|--|--|--|--|--|
 <br>
 
 ## Some of my stats :bar_chart:
