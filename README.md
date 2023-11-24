@@ -2,15 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=timkister&style=flat-square)
 
-I'm a **IT specialist trainee** working at [Schäflein](https://schaeflein.de/). My day to day work revolves around building Interfaces for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a **IT specialist** working at [Schäflein](https://schaeflein.de/). My day to day work revolves around building Interfaces for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
-- 🔭 Working on - **Improving my Skills and new projects**
+- 🔭 Working on - **PowerApps**
 
-- 🌱 Learning  - **Docker**
+- 🌱 Learning  - **Frontend**
 
-- 💬 Interests - **Psychology & Personal Growth**
+- 💬 Interests - **Fitness & Personal Growth**
 
-- 📫 Reach me - [**Discord**](https://discord.com/users/?) or [**Email**](mailto:kister.tim@googlemail.com) 
+- 📫 Reach me - [**Email**](mailto:kister.tim@googlemail.com) 
 
 ## Skill Set :muscle:
 
@@ -49,10 +49,6 @@ yes, HTML is **no** programming language 😉
 
 <a href="https://www.linkedin.com/in/tim-kister-78a447216"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 |--|
-
-## PC-Setup
-
-<img title="Ubuntu" alt="Arch" width="100px" src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png">
 
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
